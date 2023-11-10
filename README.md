@@ -2,5 +2,5 @@
 
 Simple! Just run two commands from the root of the repository:
 
-npm run setup
-npm run dev
+npm install
+npm start
